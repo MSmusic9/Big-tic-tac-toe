@@ -6,6 +6,9 @@ from numpy import arange
 from functools import cache
 
 
+__version__ = "1.0.1"
+
+
 __G = 9.8
 
 
